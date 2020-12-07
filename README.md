@@ -1,8 +1,7 @@
 # Forms
-
 ![Microverse](https://img.shields.io/badge/Microverse-blueviolet)
 
-<!-- ![Top Page Screenshot](./screenshot-2.png) -->
+![Top Page Screenshot](./screenshot.png)
 
 ## About the Project
 
@@ -11,16 +10,16 @@ This project is based on the [Odin Project Forms](https://www.theodinproject.com
 In this project we reviewed and learned the basics of Ruby on Rails including below:
 
 - HTML Form with #form_authenticity_token method
-- Railsy Forms with #form_tag
-- Railsy-er Forms with #form_for
+- Railsy-er Forms with #form_with
 - #errors and #full_messages
 
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
-### Built With
+## Built With
 
 - [Ruby on Rails](https://rubyonrails.org/)
 - [Ruby](https://www.ruby-lang.org/en/)
+- [Bootstrap gem](https://rubygems.org/gems/bootstrap/versions/4.0.0)
 
 ## Table of Contents
 
@@ -33,9 +32,9 @@ A list of commonly used resources that I find helpful is listed in the acknowled
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
-<!-- ## Live Demo
+## Live Demo
 
-[Live Demo Link](https://mv-blog-app.herokuapp.com/) -->
+[Live Demo Link](https://repl.it/@yocoono/mv-Forms)
 
 ## Getting Started
 
