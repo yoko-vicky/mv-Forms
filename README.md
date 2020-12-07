@@ -5,7 +5,7 @@
 
 ## About the Project
 
-This project is based on the [Odin Project Forms](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms). In this project, we built some forms both using nearly-pure HTML and then graduating to using the helper methods that Rails provides.
+This project is based on the [Odin Project Forms](https://www.theodinproject.com/courses/ruby-on-rails/lessons/forms). In this project, we built some forms both using nearly-pure HTML and then graduating to using the helper methods that Rails provide.
 
 In this project we reviewed and learned the basics of Ruby on Rails including below:
 
