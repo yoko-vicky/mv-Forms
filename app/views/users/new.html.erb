@@ -1,4 +1,6 @@
-<h1>Create a new user</h1>
+<%
+=begin%>
+ <h1>Create a new user</h1>
 
 <form action="/users" method="post" accept-charset="UTF-8">
   <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
@@ -17,4 +19,9 @@
   <p>
     <input type="submit" value="Submit">
   </p>
-</form>
+</form> 
+<%
+=end%>
+<p class="h4 m-auto text-center">New User</p>
+<%=render partial:'form'%>
+
